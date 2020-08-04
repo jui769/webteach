@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Student registration Form </title>
+</head>
+<body>
+<form>
+     <table>
+          <tr>
+            <td>
+               Name :
+             </td>
+             <td>
+                 <input type="text" name=" ">
+               </td>
+               </tr>
+                   <tr>
+            <td>
+               Hometown :
+             </td>
+             <td>
+                 <input type="text" Hometown=" ">
+               </td>
+               </tr>
+               <tr>
+                  <td>
+                     Password :
+                     </td>
+                     <td>
+                        <input type="password" name=" ">
+                      </td>
+                      </tr>
+                      <tr>
+                      <td>
+                     
+                         Gender :
+                       </td>
+                       <td>
+                          <input type="radio" name="Gender">Male
+                          <input type="radio" name="Gender">Female
+                          </td>
+                          </tr>
+                          <tr>
+                          <td>
+                             Email :
+                            </td>
+                            <td>
+                               <input type="mail" placeholder="Email" name=""> 
+          </td>
+          </tr>
+          <tr>
+            <td>
+               Phone number :
+               </td>
+               <td>
+                 <select>
+                    <option>0168632566</option>
+                    <option>0198632566</option>
+                    <option>01879832566</option>
+                    </select>
+                    </td>
+                    </tr>
+                     <tr>
+                      <td>
+                     
+                         Interested in :
+                       </td>
+                       <td>
+                          <input type="radio" name="Interested in">Project
+                          <input type="radio" name="Interested in">Thesis
+                          </td>
+                          </tr>
+            <tr>
+            <td>
+               Blood group :
+               </td>
+               <td>
+                 <select>
+                    <option>O+</option>
+                    <option>AB+</option>
+                    <option>O-</option>
+                    <option>AB-</option>
+                    <option>B+</option>
+                    
+                    </select>
+                    </td>
+                    </tr>
+                    </table>
+                    </form>
+                    
+                          
+                          
+               
+               
+               
+               
+               
+
+</body>
+</html>
